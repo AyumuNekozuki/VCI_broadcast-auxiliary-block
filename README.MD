@@ -1,8 +1,9 @@
 github_0517.unitypackage
-�@�z�z�p�ł��BDL���Ǔ����Ă������OK�ł��B��������܂��񂪁A���ǂł��ċC����������Twitter���ŘA�����Ă��������i�C�ɂȂ�̂Łj
+　配布用です。DL改良等してもらってOKです。
+  許可等いりませんが、改良できて気が向いたらTwitter等で連絡してください（気になるので）
 
 root.VCI
-�@github_0517���_�ł�VCI�ϊ��ς݃t�@�C���ł��B
+　github_0517時点でのVCI変換済みファイルです。
 
-�ȏ�I
+以上！
 Twitter @nekozuki_2525
